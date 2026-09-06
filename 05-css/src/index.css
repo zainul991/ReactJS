@@ -1,0 +1,15 @@
+*{
+    font-family: "Poppins";
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+/* global css */
+
+/* ek jagah pe poore code ke liye */
