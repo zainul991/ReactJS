@@ -1,6 +1,6 @@
 import React from 'react'
 import 'remixicon/fonts/remixicon.css'
-import RightCard from './'
+import RightCard from './RightCard'
 
 const RightContent = (props) => {
   console.log(props.users.color);

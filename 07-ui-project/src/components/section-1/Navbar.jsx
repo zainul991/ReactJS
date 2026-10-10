@@ -8,7 +8,7 @@ const Navbar = () => {
     <button className="bg-gray-200 px-6 py-2 uppercase rounded-full tracking-widest text-sm">
       Digital Banking Platform 
     </button>
-      
+  
     </div>
   )
 }

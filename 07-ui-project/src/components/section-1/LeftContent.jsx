@@ -1,4 +1,4 @@
-import 'remixicon/fonts/remixicon.css'
+import React from 'react'
 import Arrow from './Arrow'
 import HeroText from './HeroText'
 
